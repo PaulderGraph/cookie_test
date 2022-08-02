@@ -1,0 +1,14 @@
+.background-light{
+  background-color:  #9146FF !important;
+}
+.background-dark{
+  background-color:  #333333 !important;
+}
+.text-light{
+  color: #000 !important;
+  border-color: #000 !important;
+}
+.text-dark{
+  color: #EEE !important;
+  border-color: #EEE !important;
+}
